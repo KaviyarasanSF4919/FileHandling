@@ -1,6 +1,6 @@
 ﻿using System;
 using System.IO;
-namespace FilesAndFolders;
+namespace ReadAndWrite;
 
 class Program 
 {
@@ -60,7 +60,6 @@ class Program
                 //contents to be written
                 string data=Console.ReadLine();
                 string result="";
-
                 foreach(string line in file)
                 {
                     result+=line+"\n";
