@@ -1,0 +1,14 @@
+D:\File Handling\ConsoleAppWithCSV\bin\Debug\net8.0\ConsoleAppWithCSV.exe
+D:\File Handling\ConsoleAppWithCSV\bin\Debug\net8.0\ConsoleAppWithCSV.deps.json
+D:\File Handling\ConsoleAppWithCSV\bin\Debug\net8.0\ConsoleAppWithCSV.runtimeconfig.json
+D:\File Handling\ConsoleAppWithCSV\bin\Debug\net8.0\ConsoleAppWithCSV.dll
+D:\File Handling\ConsoleAppWithCSV\bin\Debug\net8.0\ConsoleAppWithCSV.pdb
+D:\File Handling\ConsoleAppWithCSV\obj\Debug\net8.0\ConsoleAppWithCSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Handling\ConsoleAppWithCSV\obj\Debug\net8.0\ConsoleAppWithCSV.AssemblyInfoInputs.cache
+D:\File Handling\ConsoleAppWithCSV\obj\Debug\net8.0\ConsoleAppWithCSV.AssemblyInfo.cs
+D:\File Handling\ConsoleAppWithCSV\obj\Debug\net8.0\ConsoleAppWithCSV.csproj.CoreCompileInputs.cache
+D:\File Handling\ConsoleAppWithCSV\obj\Debug\net8.0\ConsoleAppWithCSV.dll
+D:\File Handling\ConsoleAppWithCSV\obj\Debug\net8.0\refint\ConsoleAppWithCSV.dll
+D:\File Handling\ConsoleAppWithCSV\obj\Debug\net8.0\ConsoleAppWithCSV.pdb
+D:\File Handling\ConsoleAppWithCSV\obj\Debug\net8.0\ConsoleAppWithCSV.genruntimeconfig.cache
+D:\File Handling\ConsoleAppWithCSV\obj\Debug\net8.0\ref\ConsoleAppWithCSV.dll
